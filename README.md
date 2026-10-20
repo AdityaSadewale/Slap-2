@@ -1,11 +1,6 @@
 # 🚀 Slap-2
 
 <div align="center">
-  
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Version](https://img.shields.io/badge/version-1.0.0-green)
-![Status](https://img.shields.io/badge/status-active-success)
-
 A modern, feature-rich application built with clean architecture and an intuitive user experience.
 
 </div>
