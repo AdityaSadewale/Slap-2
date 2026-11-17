@@ -1,5 +1,6 @@
 import { useState } from 'react';
 
+
 const navLinks = ['Courses', 'Success Stories', 'Community', 'Contact'];
 const dashboardButtons = [
   { label: 'Explore Courses', action: 'Exploring courses...' },
