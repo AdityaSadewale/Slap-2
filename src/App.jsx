@@ -8,6 +8,7 @@ const dashboardButtons = [
   { label: 'Career Support', action: 'Showing career support options...' },
   { label: 'Download Syllabus', action: 'Downloading course syllabus...' },
 ];
+
 const courses = [
   { title: 'Full Stack Development', description: 'Build production-ready apps with React, Node.js, and databases.' },
   { title: 'Data Science & ML', description: 'Learn Python, analytics, and real-world ML workflows.' },
